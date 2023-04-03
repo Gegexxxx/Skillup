@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: whitesmoke;
+}
+.signup-page{
+    margin: auto;
+    background-color: white;
+    border-radius: 20px;
+    width: 40vw; height: 90vh;
+   margin-top: 5vh;
+  }
+.Skilluparena-png{
+    margin-left: 10vw;
+}
+.client{
+    color: #817509;
+}
+.sign{
+    padding-left: 5vw;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: -50px;
+}
+.a-client{
+border: 1px solid #817509 ;
+width: 30vw; height: 8vw;
+border-radius: 20px;
+margin: auto;
+margin-top: 20px;
+}
+.circle{
+    background-color: #D9D9D9;
+    border-radius: 50%;
+    width: 40px; height: 40px;
+    float: right;
+    margin-right: 10px;
+    border: 1px solid;
+    margin-top: 5px;
+}
+.an-expert{
+    border: 1px solid #817509 ;
+    width: 30vw; height: 8vw;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    }
+    .circle-2{
+        background-color: #D9D9D9;
+        border-radius: 50%;
+        width: 40px; height: 40px;
+        float: right;
+        margin-right: 10px;
+        border: 1px solid;
+        margin-top: 5px;
+    }
+    .continue{
+        border-radius: 20px;
+        width: 20vw; height: 6vh;
+        background:radial-gradient(rgb(184, 179, 179) 20%, #D9D9D9 80%);
+        margin: auto;
+        margin-top: 20px;
+        border: 2px solid #817509 ;
+    }
+    #continue{
+        color: #817509 ;
+        font-size: 30px;
+        font-weight: bolder;
+        padding-left: 6vw;
+    }
+    .terms{
+        color: #817509;
+        
+    }
+    .by{
+        text-align: center;
+        font-size: 20px;
+        font-weight: bolder;
+        margin-top: 20px;
+    }
+    .privacy{
+        text-align: center;
+        color: #817509;
+        font-size: 20px;
+        font-weight: bolder;
+    }
+   .already{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bolder;
+    margin-top: 30px;
+   }
+   .log{
+    color: darkgreen;
+   }
